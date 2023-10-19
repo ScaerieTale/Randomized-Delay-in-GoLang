@@ -22,7 +22,8 @@ var t int = rand.Intn(10)
 var durationLength time.Duration = time.Duration(t)
 
 // set the type of delay.  You can set:
-// see:
+// Nanoseconds, Microseconds, Seconds, Minutes, etc.
+// see: https://pkg.go.dev/time for full documentation
 var timeType = time.Second
 
 func main() {

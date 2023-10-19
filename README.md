@@ -13,3 +13,5 @@ need to include a copy of the lisence if you use any or all of the provided code
 I am providing it AS-IS and can't guarantee that the Go team won't break it in the future (as evidenced by my hours of researching such a simple process!)
 
 If in the future it does break, though, I will do my best to update it!  I hope someone besides myself is able to find this useful, but, if not, I have a few APIs planned that I think will benefit nicely.
+
+Unfortunately, condensing everything into a simple function is slightly beyond my skills, at least in the Go language (Can't figure out how to pass the "time.{type}" as an argument).
